@@ -1,20 +1,22 @@
 // #1 create a variable called 'myName' and assign it to your name as a string
 
-// CODE HERE
+let myName = Drew;
 
 // #2 create a variable called 'faveNum' and assign it to your favorite number
 
-// CODE HERE
+let faveNum = 13;
 
 // #3 create a variable called 'lovesCode' and set it to true
 
-// CODE HERE
+let lovesCode = true;
 
-// #4 Using the previously created variables, create a new variable called 'me' that uses the myName and faveNum varible to create a sentence like this 'My name is Bryan and my favorite number is 3'
+// #4 Using the previously created variables, create a new variable called 'me' that uses the myName and faveNum varible to create a sentence like this 'My name is Bryan and my 
+//favorite number is 3'
 
-// CODE HERE
+let me = 'My name is 'myName 'and my favorite number is' faveNum;
 
-// #5 Using the previously created faveNum variable, create a new variable called 'trueFaveNum'. *trueFaveNum* should equal true when comparing faveNum to your favorite number.v // HINT: Use a comparison operator
+// #5 Using the previously created faveNum variable, create a new variable called 'trueFaveNum'. *trueFaveNum* should equal true when comparing faveNum to your favorite number.v 
+// HINT: Use a comparison operator
 
 // CODE HERE
 
@@ -23,7 +25,7 @@
 // CODE HERE
 
 // #7 Create an if statement that checks the age variable below. If age is greater than 16, then set canDrive to true otherwise set canDrive to false. The canDrive variable will be set by the unit test so do not adjust it.
-var age = 18;
+var age = 38;
 var canDrive;
 
 
